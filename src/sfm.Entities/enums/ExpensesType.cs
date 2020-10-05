@@ -1,6 +1,6 @@
 namespace sfm.Entities.enums
 {
-    public enum TypePersonEnum
+    public enum ExpensesType
     {
         Accounts = 1, // contas
         Investment = 2 // Investimentos
