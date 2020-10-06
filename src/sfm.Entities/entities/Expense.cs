@@ -1,9 +1,9 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using sfm.Entities.enums;
+using sfm.Entities.Enums;
 
-namespace sfm.Entities.entities
+namespace sfm.Entities.Entities
 {
     [Table("expense")]
     public class Expense : Base

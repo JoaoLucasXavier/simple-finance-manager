@@ -1,4 +1,4 @@
-namespace sfm.Entities.enums
+namespace sfm.Entities.Enums
 {
     public enum ExpensesType
     {

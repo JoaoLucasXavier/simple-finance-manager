@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace sfm.Entities.notifications
+namespace sfm.Entities.Notifications
 {
     public class Notification
     {

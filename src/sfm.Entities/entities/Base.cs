@@ -1,8 +1,8 @@
 using System;
 using System.ComponentModel.DataAnnotations;
-using sfm.Entities.notifications;
+using sfm.Entities.Notifications;
 
-namespace sfm.Entities.entities
+namespace sfm.Entities.Entities
 {
     public abstract class Base : Notification
     {

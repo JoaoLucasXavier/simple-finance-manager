@@ -2,7 +2,7 @@ using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace sfm.Entities.entities
+namespace sfm.Entities.Entities
 {
     [Table("purchaseItem")]
     public class PurchaseItem : Base
