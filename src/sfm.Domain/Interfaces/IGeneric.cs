@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace sfm.Domain.Interfaces.Generics
+namespace sfm.Domain.Interfaces
 {
     public interface IGeneric<T> where T : class
     {
