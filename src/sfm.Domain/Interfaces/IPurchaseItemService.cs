@@ -1,3 +1,5 @@
+using sfm.Entities.Entities;
+
 namespace sfm.Domain.Interfaces
 {
     public interface IPurchaseItemService
