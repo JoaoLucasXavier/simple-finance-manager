@@ -4,7 +4,7 @@ using sfm.Entities.Notifications;
 
 namespace sfm.Entities.Entities
 {
-    public abstract class Base : Notification
+    public class Base : Notification
     {
         [Display(Name = "Código")]
         public Guid Id { get; set; }
