@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace sfm.Entities.Entities
 {
-    [Table("SistemaFinanceiro")]
+    [Table("financialSystem")]
     public class FinancialSystem : Base
     {
         [Display(Name = "Ano sistema")]
