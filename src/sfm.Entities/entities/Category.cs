@@ -9,7 +9,7 @@ namespace sfm.Entities.Entities
     {
         [Display(Name = "Código sistema")]
         [ForeignKey("FinancialSystem")]
-        public Guid SistemId { get; set; }
+        public Guid SystemId { get; set; }
 
         public virtual FinancialSystem FinancialSystem { get; set; }
     }
