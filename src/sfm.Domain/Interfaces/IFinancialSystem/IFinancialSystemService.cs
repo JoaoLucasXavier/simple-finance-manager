@@ -1,6 +1,6 @@
 using sfm.Entities.Entities;
 
-namespace sfm.Domain.Interfaces
+namespace sfm.Domain.Interfaces.IFinancialSystem
 {
     public interface IFinancialSystemService
     {

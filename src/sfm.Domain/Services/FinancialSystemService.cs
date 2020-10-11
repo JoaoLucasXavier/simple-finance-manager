@@ -1,5 +1,5 @@
 using System;
-using sfm.Domain.Interfaces;
+using sfm.Domain.Interfaces.IFinancialSystem;
 using sfm.Entities.Entities;
 
 namespace sfm.Domain.Services

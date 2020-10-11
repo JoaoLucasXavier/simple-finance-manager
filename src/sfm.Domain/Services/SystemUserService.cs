@@ -1,4 +1,4 @@
-using sfm.Domain.Interfaces;
+using sfm.Domain.Interfaces.ISystemUser;
 using sfm.Entities.Entities;
 
 namespace sfm.Domain.Services

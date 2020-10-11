@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using sfm.Entities.Entities;
 
-namespace sfm.Domain.Interfaces
+namespace sfm.Domain.Interfaces.ISystemUser
 {
     public interface ISystemUser : IGeneric<SystemUser>
     {

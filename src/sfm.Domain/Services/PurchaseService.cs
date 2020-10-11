@@ -1,5 +1,5 @@
 using System;
-using sfm.Domain.Interfaces;
+using sfm.Domain.Interfaces.IPurchase;
 using sfm.Entities.Entities;
 
 namespace sfm.Domain.Services
