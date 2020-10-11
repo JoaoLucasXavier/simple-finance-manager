@@ -5,6 +5,6 @@ namespace sfm.Domain.Interfaces.IFinancialSystem
 {
     public interface IFinancialSystem : IGeneric<FinancialSystem>
     {
-        IList<FinancialSystem> ListUserSystems(string emailUsuario);
+        IList<FinancialSystem> ListUserSystems(string userEmail);
     }
 }
